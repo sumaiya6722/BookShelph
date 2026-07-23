@@ -1,0 +1,110 @@
+[
+  {
+    "id": "b1",
+    "title": "The Silent Horizon",
+    "author": "Elena Rostova",
+    "description": "An atmospheric historical fiction tale tracing an unexpected journey through the remote, snow-bound landscapes of late 19th-century Siberia.",
+    "category": "Story",
+    "available_quantity": 14,
+    "image_url": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": "b2",
+    "title": "Architecting Next-Gen Microservices",
+    "author": "Dr. K. M. Rahman",
+    "description": "A deep dive into structural patterns for modern cloud native platforms, detailing robust concurrency paradigms and highly scalable API design patterns.",
+    "category": "Tech",
+    "available_quantity": 8,
+    "image_url": "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": "b3",
+    "title": "Quantum Mechanics: The Visual Blueprint",
+    "author": "Marcus Thorne",
+    "description": "Breaking down subatomic physics using clean, comprehensive schematics, vector tracking grids, and simple geometric structural metaphors.",
+    "category": "Science",
+    "available_quantity": 5,
+    "image_url": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": "b4",
+    "title": "Echoes of the Forgotten Valley",
+    "author": "Tariq Ali",
+    "description": "An evocative generational epic following a family of traditional weavers navigating the rapid industrialization of a changing rural valley.",
+    "category": "Story",
+    "available_quantity": 22,
+    "image_url": "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": "b5",
+    "title": "Mastering TypeScript and Advanced Patterns",
+    "author": "Sarah Jenkins",
+    "description": "A exhaustive manual detailing conditional typing, structural generic constraints, map parameters, and strict compilation flags for web developers.",
+    "category": "Tech",
+    "available_quantity": 17,
+    "image_url": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": "b6",
+    "title": "The CRISPR Revolution",
+    "author": "Dr. Linus Vance",
+    "description": "Exploring the biochemistry, molecular mechanics, and systemic ethical considerations driving modern targeted genomic sequence editing technologies.",
+    "category": "Science",
+    "available_quantity": 6,
+    "image_url": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": "b7",
+    "title": "Beneath a Crimson Canopy",
+    "author": "Chieko Tanaka",
+    "description": "A beautifully detailed historical mystery novel set in the vibrant, high-stakes political landscape of mid-Edo period Kyoto.",
+    "category": "Story",
+    "available_quantity": 11,
+    "image_url": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": "b8",
+    "title": "Designing Data-Intensive Interfaces",
+    "author": "Alexandre Dumas Jr.",
+    "description": "Focusing on optimized component state management patterns, data loading pipelines, virtualized window grids, and real-time state hydration.",
+    "category": "Tech",
+    "available_quantity": 19,
+    "image_url": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": "b9",
+    "title": "Astrophysics and the Fabric of Spacetime",
+    "author": "Neil deGrasse Larson",
+    "description": "An accessible introduction analyzing black hole horizons, stellar nucleosynthesis, gravitational field mechanics, and universal expansion metrics.",
+    "category": "Science",
+    "available_quantity": 13,
+    "image_url": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": "b10",
+    "title": "Threads of the Midnight Loom",
+    "author": "Julian Vance",
+    "description": "A lyrical magical realism anthology probing the hidden dreamscape folklore of communities scattered along the Mediterranean coast.",
+    "category": "Story",
+    "available_quantity": 9,
+    "image_url": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": "b11",
+    "title": "Decentralized Auth Frameworks",
+    "author": "Vikram Malhotra",
+    "description": "Securing web systems through distributed state assertions, standard JWT patterns, Better-Auth layers, and multi-factor verification workflows.",
+    "category": "Tech",
+    "available_quantity": 25,
+    "image_url": "https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&w=400&q=80"
+  },
+  {
+    "id": "b12",
+    "title": "Principles of Evolutionary Biology",
+    "author": "Dr. Clara Fontaine",
+    "description": "An academic reference manual exploring modern synthesis, adaptation trajectories, genetic drift variations, and ecosystem selection modeling.",
+    "category": "Science",
+    "available_quantity": 4,
+    "image_url": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=400&q=80"
+  }
+]
